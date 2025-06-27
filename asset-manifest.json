@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maharaja/static/css/main.88e71da8.css",
-    "main.js": "/maharaja/static/js/main.822ee9e3.js",
+    "main.js": "/maharaja/static/js/main.c60e3943.js",
     "static/media/lambdapay_logo.png": "/maharaja/static/media/lambdapay_logo.ebedf136c617d404f31f.png",
     "index.html": "/maharaja/index.html",
     "main.88e71da8.css.map": "/maharaja/static/css/main.88e71da8.css.map",
-    "main.822ee9e3.js.map": "/maharaja/static/js/main.822ee9e3.js.map"
+    "main.c60e3943.js.map": "/maharaja/static/js/main.c60e3943.js.map"
   },
   "entrypoints": [
     "static/css/main.88e71da8.css",
-    "static/js/main.822ee9e3.js"
+    "static/js/main.c60e3943.js"
   ]
 }
